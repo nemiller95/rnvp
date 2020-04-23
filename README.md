@@ -1,2 +1,2 @@
 # rnvp
-testing rnvp celeba for google cloud
+Implementation of RealNVP for celebA dataset
